@@ -1,0 +1,10 @@
+mss
+opencv-python
+pyttsx3
+telebot
+clipboard
+secure-delete
+pyAesCrypt
+psutil
+pyttsx3==2.90
+pyinstaller
