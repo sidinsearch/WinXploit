@@ -87,8 +87,7 @@ Use this software responsibly and at your own risk. It is provided for education
 ## 🎥 Video Tutorial
 
 
-https://github.com/sidinsearch/WinXploit/assets/29821792/88d2db41-1115-4d6e-a8e4-7f84fca1107b
-
+https://github.com/sidinsearch/WinXploit/assets/29821792/01bbc0c5-a6cc-4602-aa2c-26c091fbde09
 
 
 ## 🌟 Credits
